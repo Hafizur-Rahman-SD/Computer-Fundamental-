@@ -5,4 +5,4 @@ answer:  computer is an electronic device that manipulates information, or data.
           It has the ability to store, retrieve, and process data.
 
 
-          Question 02:
+          Question 02: //importany to write something.
